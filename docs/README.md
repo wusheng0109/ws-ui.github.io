@@ -1,14 +1,14 @@
-# ws-ui组件库
+# 快速开始
 
-### 快速开始
-
-### 1.安装组件库
+#### 安装组件库
 
 ```bash
 npm i ws0909-ui
 ````
 
-### 2.引用组件库
+#### 引用组件库
+> 在main.js中引用组件库
+
 ```javascript
 //全部引入
 import 'ws0909-ui/dist/css/index.css'
